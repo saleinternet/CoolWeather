@@ -25,7 +25,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 遍历省市县地址
+ * 遍历省市县三级列表的功能
  * Created by chensiwen on 15/8/5.
  */
 public class ChooseAreaActivity extends Activity {
